@@ -1,0 +1,21 @@
+{
+  "name": "bilibili-data-crawling",
+  "version": "1.0.0",
+  "description": "dataCrawling",
+  "main": "index.js",
+  "author": "rascal Dan",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "browsermob-proxy": "^1.0.10",
+    "browsermob-proxy-api": "^0.4.0",
+    "cheerio": "^1.0.0-rc.3",
+    "crawler": "^1.2.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.7",
+    "puppeteer": "^2.1.1",
+    "selenium": "^2.20.0",
+    "superagent": "^5.2.2"
+  }
+}
