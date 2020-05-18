@@ -21,7 +21,8 @@ module.exports.saveData =  async function (data = [], clt = '') {
     console.log('data or collection is empty!')
     return 'data or collection is empty!'
   }
-
+  console.log(111);
+  
   const collection = await db.collection(clt)
   await collection.insertMany(data)
 }
