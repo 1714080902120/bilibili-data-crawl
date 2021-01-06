@@ -6,7 +6,7 @@
   "author": "rascal Dan",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "body-parser": "^1.19.0",
     "browsermob-proxy": "^1.0.10",
     "browsermob-proxy-api": "^0.4.0",
